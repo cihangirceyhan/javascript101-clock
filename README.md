@@ -30,3 +30,9 @@ var zaman = new Date();
 var yıl = zaman.getMonth();
 document.write(yıl);
 ```
+
+### Technologies used
+
+- **Javascript**
+- **HTML**
+- **CSS**
